@@ -7,3 +7,14 @@ markdown
 ## Other Power Pack Guides
 * [Model 20 and 34 Schematic](https://github.com/THE-Quaddriver/Troller-Transformer-schematics)
 * [Project overview and thoughts for momentum units](https://github.com/THE-Quaddriver/Troller-momentum-throttles)
+
+* 
+---
+### ⚠️ Disclaimer
+This documentation is for educational and historical preservation purposes only. 
+The author is an amateur hobbyist, not a licensed electrical engineer. 
+Vintage train power packs contain high-voltage components that can be lethal. 
+*   **Work at your own risk:** I am not responsible for any damage to your equipment, 
+    property, or personal injury resulting from the use of these schematics.
+*   **Accuracy:** While I have done my best to trace these circuits, they may contain 
+    errors or reflect specific production runs that differ from your unit. 
