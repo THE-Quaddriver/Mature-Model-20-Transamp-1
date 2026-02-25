@@ -21,4 +21,4 @@ Vintage train power packs contain high-voltage components that can be lethal.
 
 ### License
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
-© 2024 [Ed Graffius/THE-Quaddriver]. 
+© 2026 [Ed Graffius/THE-Quaddriver]. 
