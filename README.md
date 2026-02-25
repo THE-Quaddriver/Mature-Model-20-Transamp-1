@@ -5,5 +5,5 @@ as a good starting point for any of the Transpack(s) including the 'twins'.  The
 markdown
 
 ## Other Power Pack Guides
-* [Model 34 Schematic](PASTE_URL_HERE)
+* [Model 20 and 34 Schematic](https://github.com/THE-Quaddriver/Troller-Transformer-schematics)
 * [Project overview and thoughts for momentum units](PASTE_URL_HERE)
